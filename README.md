@@ -1,4 +1,4 @@
-#### LIFE_TRACE
+### LIFE_TRACE
 A full stack webdev project done using nextjs
 
 ### MVP:
