@@ -1,0 +1,79 @@
+{
+  "01|2|2026": {
+    "screen_time": "8hrs 40mins",
+    "meditation": "0 mins",
+    "exercise": "no",
+    "sleep": "5 hrs",
+    "work": "0.5hr",
+    "good": "Attended mandatory class",
+    "bad": "Mindless scrolling, skipped workout",
+    "remarks": "Very distracted and unfocused",
+    "Emotional_state": "irritated"
+  },
+  "02|2|2026": {
+    "screen_time": "7hrs 15mins",
+    "meditation": "5 mins",
+    "exercise": "no",
+    "sleep": "6 hrs",
+    "work": "1hr",
+    "good": "Completed small task",
+    "bad": "Low energy, procrastinated heavily",
+    "remarks": "Felt mentally foggy",
+    "Emotional_state": "apathetic"
+  },
+  "03|2|2026": {
+    "screen_time": "3hrs 40mins",
+    "meditation": "20 mins",
+    "exercise": "yes",
+    "sleep": "7.5 hrs",
+    "work": "4hr",
+    "good": "Deep work session, solved DSA problems",
+    "bad": "Skipped a meal",
+    "remarks": "Highly productive",
+    "Emotional_state": "motivated"
+  },
+  "04|2|2026": {
+    "screen_time": "4hrs 15mins",
+    "meditation": "15 mins",
+    "exercise": "yes",
+    "sleep": "8 hrs",
+    "work": "3hr",
+    "good": "Consistent routine, good workout",
+    "bad": "Minor distraction in the evening",
+    "remarks": "Balanced day",
+    "Emotional_state": "calm"
+  },
+  "05|2|2026": {
+    "screen_time": "6hrs 55mins",
+    "meditation": "5 mins",
+    "exercise": "no",
+    "sleep": "6 hrs",
+    "work": "2hr",
+    "good": "Finished an assignment",
+    "bad": "Late night scrolling",
+    "remarks": "Energy dipped at night",
+    "Emotional_state": "tired"
+  },
+  "06|2|2026": {
+    "screen_time": "2hrs 50mins",
+    "meditation": "25 mins",
+    "exercise": "yes",
+    "sleep": "8.5 hrs",
+    "work": "5hr",
+    "good": "Excellent focus, meaningful progress",
+    "bad": "None significant",
+    "remarks": "Peak performance day",
+    "Emotional_state": "confident"
+  },
+  "07|2|2026": {
+    "screen_time": "4hrs 30mins",
+    "meditation": "10 mins",
+    "exercise": "yes",
+    "sleep": "7 hrs",
+    "work": "2.5hr",
+    "good": "Reflected on the week, planned ahead",
+    "bad": "Slight restlessness",
+    "remarks": "Good recovery and planning day",
+    "Emotional_state": "content"
+  }
+}
